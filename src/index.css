@@ -1,1 +1,6 @@
 @import 'tailwindcss';
+
+/* Brutalist custom styles */
+.border-6 {
+  border-width: 6px;
+}
